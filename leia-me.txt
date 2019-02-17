@@ -1,0 +1,1 @@
+Esse aplicativo mostra uma lista com os signos e a cada signo está associada uma mensagem que é exibida com Toast.makeText().
